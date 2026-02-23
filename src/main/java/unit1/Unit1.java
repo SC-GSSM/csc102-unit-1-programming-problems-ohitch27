@@ -9,7 +9,7 @@ public class Unit1 {
 		System.out.println("67.7 casted to an int = " + castDoubleToInt(67.7 ));
 		System.out.println("Is true?" + isTrue(true));
 		System.out.println("Max Value - 1 = " + maxValueMinusOne());
-		System.out.println("Multiply 1 * 1.2 = " + multiplyIntAndDouble(1, 1.2)):
+		System.out.println("Multiply 1 * 1.2 = " + multiplyIntAndDouble(1, 1.2));
 	}
  /**
   * Method 1: Returns the sum of two integers.
